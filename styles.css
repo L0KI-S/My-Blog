@@ -1,10 +1,28 @@
 @charset "utf-8";
 /* CSS Document */
-body {background-color: palegoldenrod;
+body {
+	background-color: palegoldenrod;
 }
-h1 {color: cadetblue; 
+h1 {
+	color: cadetblue; 
 	text-align: center
 }
-p {color: tomato;
-	text-align: left
+a {
+	text-decoration: none;
+}
+#firstp {
+	color: tomato;
+	text-align: left;
+	line-height: 1.5;
+}
+#secp {
+	color: coral;
+	text-align: left;
+	line-height: 1.5;
+}
+.blue {
+	color: blue;
+}
+.red {
+	color: red;
 }
